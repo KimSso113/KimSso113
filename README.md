@@ -1,18 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=200&section=header&text=Kim%20Sso&fontSize=90" />
-
-
-- 👋 Hi, I’m @KimSso113
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=black&text=Sso's&fontColor=ff6347" />
+</div>
 
 <!---
 KimSso113/KimSso113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4 align="center"> 안녕하세요! 👋 </h4>
-<p align="center">  </p>
+
+<h4 align="center">Hello! 👋</h4>
+<p align="center">I'm So Jeong Kim. I'm first year Frontend Developer.</p>
+<p align="center">👀 I’m currently learning javascript and React! </p>
 
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
