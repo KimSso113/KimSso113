@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">I'm So Jeong Kim. I'm first year Frontend Developer.</p>
 <p align="center">👀 I’m currently learning javascript and React! </p>
 
+<h3 align="center">My Skills 🐤</h3>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -23,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">✨ My Github Stats ✨</h3>
+<h3 align="center">My Github Stats ✨</h3>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSso&theme=graywhite&show_icons=true)
