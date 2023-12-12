@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">My Github Stats ✨</h3>
+<h3 align="center">My Github Status ✨</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSso&theme=graywhite&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSso113&theme=graywhite&show_icons=true)
 </div>
